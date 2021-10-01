@@ -13,4 +13,6 @@ Output Column </br>
 1. HotelName</br>
 2. RoomName</br>
 3. Price</br>
-4. Stampdate
+4. Stampdate</br>
+</br>
+Output = Excel Files
